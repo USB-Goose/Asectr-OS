@@ -1,3 +1,3 @@
 # Asectr-OS
-                          НедоОС Asectr OS (Windows 12 concept)
-              НедоОС сделаная на DeveNext FX Edition, из-за спора с другом
+                          НедоОС Asectr OS mobile (Windows 12 mobile concept)
+              НедоОС сделаная на DeveNextStudio Edition.
